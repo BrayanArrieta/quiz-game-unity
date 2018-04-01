@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "121785706995",
+    "firebase_url": "https://quiz-game-unity.firebaseio.com",
+    "project_id": "quiz-game-unity",
+    "storage_bucket": "quiz-game-unity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121785706995:android:659d22b1f4548b2b",
+        "android_client_info": {
+          "package_name": "com.Company.Google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121785706995-hohu0ih02umsudunsguukjb19j4j82jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB519AlsYlJMgY6UWePnBayxt70Y9536po"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
